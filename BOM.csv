@@ -1,0 +1,6 @@
+Item,Part Number,Description,Quantity,Designator,Manufacturer
+1,RES-1K-0805,1k Ohm Resistor,10,R1,R2,Panasonic
+2,CAP-100NF-0805,100nF Ceramic Capacitor,5,C1,C2,Murata
+3,MCU-ATMEGA328P,Microcontroller DIP-28,1,U1,Microchip
+
+Add initial Bill of Materials CSV)
