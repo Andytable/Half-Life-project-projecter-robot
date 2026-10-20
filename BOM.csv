@@ -1,4 +1,4 @@
-Component,Description,Quantity,Unit Price (USD),Total Price (USD),Supplier
+No.,Component,Description,Quantity,Unit Price (USD),Total Price (USD),Supplier
 1,ST7735 TFT Display,Main display,1,7.59,7.59,Amazon
 2,Seeed Studio XIAO ESP32-C3,Microcontroller,1,1.74,1.74,AliExpress
 3,DHT11,Environmental sensor,1,0.73,0.73,AliExpress
