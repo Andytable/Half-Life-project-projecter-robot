@@ -1,10 +1,9 @@
 Item,Description,Quantity,Unit Price,Total Price,Supplier
-ST7735 TFT Display,The display,1,5.40,5.40,Amazon
-DHT11,Environment sensor,1,0.75,0.75,AliExpress
-PCB,The entire project,1,10.30,10.30,JLCPCB
-MX Switch,The switch,1,3.54,3.54,AliExpress
-Seeed Studio XIAO ESP32-C3,Microcontroller,1,8.01,8.01,AliExpress
-Tax & Shipping,For the whole order,1,2.00,2.00,Various
-```
+ST7735 TFT Display,The display,1,$5.40,$5.40,Amazon
+DHT11,Environment sensor,1,$0.75,$0.75,AliExpress
+PCB,The entire project,1,$10.30,$10.30,JLC
+MX Switches,The switch,1,$3.54,$3.54,AliExpress
+Seeed Studio XIAO ESP32-C3,Microcontroller,1,$8.01,$8.01,AliExpress
+Tax & Shipping,For the whole order,-,-,$2.00,-
 
 Total cost: $30.00
