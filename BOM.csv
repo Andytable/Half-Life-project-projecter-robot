@@ -4,6 +4,5 @@ No.,Component,Description,Quantity,Unit Price (USD),Total Price (USD),Supplier
 3,DHT11,Environmental sensor,1,0.75,0.75,AliExpress
 4,PCB,Custom printed circuit board,1,10.30,10.30,JLC
 5,MX Switches,Mechanical switches,1,3.54,3.54,AliExpress
-6,Tax & Shipping,For the whole order,1,2.00,2.00,Various
 ,,,,,,
-,,Grand Total,,,30.00,
+,,Grand Total,,,28.00,
