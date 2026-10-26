@@ -6,18 +6,3 @@ The project also features a DHT11 temperature and humidity sensor. It reads data
 For the microcontroller, the project uses the Seeed Studio XIAO ESP32, which is already capable of providing enough power. The MPU6050 is the other sensor component on this board, and it is fully functional. On the board, it connects via J1, an 8-pin connector with a footprint specifically designed for an MPU6050 module. The 3D Models folder includes a GY-521 MPU6050 accelerometer model, and the footprint folder contains an MPU6050 module footprint. The connector includes SCL, SDA, 3.3V, and GND lines in the schematic, making it ready to plug a module straight in. Tilting the device triggers special sound effects.
 <img width="1621" height="1027" alt="Screenshot 2026-10-11 175944" src="https://github.com/user-attachments/assets/595523da-9b77-453a-ac3e-7de6b46782b2" />
 <img width="686" height="455" alt="image" src="https://github.com/user-attachments/assets/d8f6dfdf-d7ba-4802-9ab6-6b709c31afa7" />
-
-
-
-
-
-[Uploading Half-Life_Project_BOM.csv…]()
-No.,Component,Description,Quantity,Unit Price (CAD),Total Price (CAD),Supplier
-1,ST7735 TFT Display,Main display,1,7.59,7.59,Amazon
-2,Seeed Studio XIAO ESP32-C3,Microcontroller,1,11.26,11.26,AliExpress
-3,DHT11,Environmental sensor,1,1.05,1.05,AliExpress
-4,PCB,Custom printed circuit board,1,14.48,14.48,JLC
-5,MX Switches,Mechanical switches,1,4.98,4.98,AliExpress
-6,GY-521 MPU6050,6-axis motion sensor,1,3.48,3.48,AliExpress
-,,,,,,
-,,Grand Total,,,42.84,
